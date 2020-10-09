@@ -1,5 +1,3 @@
-
-
 const {
     v4
 } = require('uuid');
@@ -42,12 +40,7 @@ class Cube {
                 console.log('New cubucle is successfully stored!');
             })
         })
-        // fs.writeFile(dbFilePath, JSON.stringify(data), error => {
-        //     if (error) {
-        //         throw new error;
-        //     }
-        //     console.log('New cubucle is successfully stored!');
-        // })
+        
     }
     
       

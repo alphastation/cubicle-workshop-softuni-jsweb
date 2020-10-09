@@ -1,1 +1,37 @@
-[{"id":"f69f4daf-5ad5-445a-8402-282afc27e298","name":"defaultName","description":"this is a default cubicle","imageUrl":"https://www.thecubicle.com/","diffLevel":1},{"id":"e8bc6b6d-7fca-4f48-9080-8fa8eab67a07","name":"defaultName","description":"this is a default cubicle","imageUrl":"https://www.thecubicle.com/","diffLevel":1},{"id":"2d8b838d-96c7-4716-88bd-3b80625cb8b0","name":"defaultName","description":"this is a default cubicle","imageUrl":"https://www.thecubicle.com/","diffLevel":1},{"id":"e2c2e66f-0583-46d5-a3be-81dca21fd798","name":"defaultName","description":"this is a default cubicle","imageUrl":"https://www.thecubicle.com/","diffLevel":1},{"id":"0b0e95da-c9ab-45b0-bbfa-b85b36d05ce2","name":"defaultName","description":"this is a default cubicle","imageUrl":"https://www.thecubicle.com/","diffLevel":1},{"id":"394f6f23-f77e-40ad-bbcd-6d5d94be685e","name":"defaultName","description":"this is a default cubicle","imageUrl":"https://www.thecubicle.com/","diffLevel":1}]
+[{
+    "id": "f69f4daf-5ad5-445a-8402-282afc27e298",
+    "name": "defaultName",
+    "description": "this is a default cubicle",
+    "imageUrl": "https://www.thecubicle.com/",
+    "diffLevel": 1
+}, {
+    "id": "e8bc6b6d-7fca-4f48-9080-8fa8eab67a07",
+    "name": "defaultName",
+    "description": "this is a default cubicle",
+    "imageUrl": "https://www.thecubicle.com/",
+    "diffLevel": 1
+}, {
+    "id": "2d8b838d-96c7-4716-88bd-3b80625cb8b0",
+    "name": "defaultName",
+    "description": "this is a default cubicle",
+    "imageUrl": "https://www.thecubicle.com/",
+    "diffLevel": 1
+}, {
+    "id": "e2c2e66f-0583-46d5-a3be-81dca21fd798",
+    "name": "defaultName",
+    "description": "this is a default cubicle",
+    "imageUrl": "https://www.thecubicle.com/",
+    "diffLevel": 1
+}, {
+    "id": "0b0e95da-c9ab-45b0-bbfa-b85b36d05ce2",
+    "name": "defaultName",
+    "description": "this is a default cubicle",
+    "imageUrl": "https://www.thecubicle.com/",
+    "diffLevel": 1
+}, {
+    "id": "394f6f23-f77e-40ad-bbcd-6d5d94be685e",
+    "name": "defaultName",
+    "description": "this is a default cubicle",
+    "imageUrl": "https://www.thecubicle.com/",
+    "diffLevel": 1
+}]
